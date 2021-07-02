@@ -1,3 +1,3 @@
 # UTestItTools
 
-A description of this package.
+Library provides some useful unit testing tools
